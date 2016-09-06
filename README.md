@@ -1,2 +1,2 @@
-# Website-Design
-My first website design project
+# WebsiteProject
+My first website project
